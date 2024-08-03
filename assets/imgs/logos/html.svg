@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 411.4 411.39999"
+   version="1.1"
+   id="svg3286"
+   sodipodi:docname="html.svg"
+   width="411.39999"
+   height="411.39999"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs3290" />
+  <sodipodi:namedview
+     id="namedview3288"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.9723651"
+     inkscape:cx="-246.82087"
+     inkscape:cy="17.997355"
+     inkscape:window-width="2560"
+     inkscape:window-height="1382"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3286" />
+  <title
+     id="title3274">HTML5 Logo</title>
+  <path
+     fill="#e44d26"
+     d="m 58.718233,371.84999 -33,-370.3999916 H 388.51824 l -33,370.1999916 -148.7,41.2"
+     id="path3278" />
+  <path
+     fill="#f16529"
+     d="M 207.11824,381.34999 V 31.849999 h 148.3 l -28.3,315.999991"
+     id="path3280" />
+  <path
+     fill="#ebebeb"
+     d="M 93.118233,77.149999 H 207.11824 v 45.399991 h -64.2 l 4.2,46.5 h 60 v 45.3 h -101.6 m 2,22.8 h 45.6 l 3.2,36.3 50.8,13.6 v 47.4 l -93.2,-26"
+     id="path3282" />
+  <path
+     fill="#ffffff"
+     d="m 320.71824,77.149999 h -113.8 v 45.399991 h 109.6 m -4.1,46.5 h -105.5 v 45.4 h 56 l -5.3,59 -50.7,13.6 v 47.2 l 93,-25.8"
+     id="path3284" />
+  <metadata
+     id="metadata3409">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>HTML5 Logo</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
